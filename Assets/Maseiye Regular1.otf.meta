@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b533f5b801188914bba66084c8ceba34
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Maseiye
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 500cbb430bcad414e9717839138c29b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
